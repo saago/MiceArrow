@@ -4,6 +4,11 @@
 
 Mice Arrow is a Windows desktop app for creating cursor profiles and applying custom cursors system-wide. Design a cursor from a PNG or ICO image, adjust its size and color, add a glow, set its click point, and switch profiles manually or automatically based on the active application.
 
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
+[![ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/netanelelhadad)
+
+
 The app changes Windows cursor settings; it does not inject DLLs, install hooks, or draw an overlay in games. Applications and games that draw their own cursor may ignore the Windows cursor.
 
 Created by **Netanel Elhadad** · [Nati3210@gmail.com](mailto:Nati3210@gmail.com)
